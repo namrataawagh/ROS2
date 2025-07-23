@@ -1,0 +1,21 @@
+[0.371s] Invoking command in '/home/namrata/my_ws/src/my_pkg': PYTHONPATH=/home/namrata/my_ws/build/my_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/namrata/my_ws/install/my_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/my_pkg build --build-base /home/namrata/my_ws/build/my_pkg/build install --record /home/namrata/my_ws/build/my_pkg/install.log --single-version-externally-managed install_data
+[0.510s] running egg_info
+[0.510s] writing ../../build/my_pkg/my_pkg.egg-info/PKG-INFO
+[0.510s] writing dependency_links to ../../build/my_pkg/my_pkg.egg-info/dependency_links.txt
+[0.510s] writing entry points to ../../build/my_pkg/my_pkg.egg-info/entry_points.txt
+[0.510s] writing requirements to ../../build/my_pkg/my_pkg.egg-info/requires.txt
+[0.510s] writing top-level names to ../../build/my_pkg/my_pkg.egg-info/top_level.txt
+[0.511s] reading manifest file '../../build/my_pkg/my_pkg.egg-info/SOURCES.txt'
+[0.512s] writing manifest file '../../build/my_pkg/my_pkg.egg-info/SOURCES.txt'
+[0.512s] running build
+[0.512s] running build_py
+[0.512s] running install
+[0.512s] running install_lib
+[0.513s] running install_data
+[0.514s] running install_egg_info
+[0.514s] removing '/home/namrata/my_ws/install/my_pkg/lib/python3.10/site-packages/my_pkg-0.0.0-py3.10.egg-info' (and everything under it)
+[0.515s] Copying ../../build/my_pkg/my_pkg.egg-info to /home/namrata/my_ws/install/my_pkg/lib/python3.10/site-packages/my_pkg-0.0.0-py3.10.egg-info
+[0.515s] running install_scripts
+[0.530s] Installing my_node script to /home/namrata/my_ws/install/my_pkg/lib/my_pkg
+[0.530s] writing list of installed files to '/home/namrata/my_ws/build/my_pkg/install.log'
+[0.550s] Invoked command in '/home/namrata/my_ws/src/my_pkg' returned '0': PYTHONPATH=/home/namrata/my_ws/build/my_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/namrata/my_ws/install/my_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/my_pkg build --build-base /home/namrata/my_ws/build/my_pkg/build install --record /home/namrata/my_ws/build/my_pkg/install.log --single-version-externally-managed install_data

@@ -1,0 +1,16 @@
+/home/namrata/my_ws/install/my_pkg/lib/$(PROJECT_NAME)/my_node.py
+/home/namrata/my_ws/install/my_pkg/share/ament_index/resource_index/package_run_dependencies/my_pkg
+/home/namrata/my_ws/install/my_pkg/share/ament_index/resource_index/parent_prefix_path/my_pkg
+/home/namrata/my_ws/install/my_pkg/share/my_pkg/environment/ament_prefix_path.sh
+/home/namrata/my_ws/install/my_pkg/share/my_pkg/environment/ament_prefix_path.dsv
+/home/namrata/my_ws/install/my_pkg/share/my_pkg/environment/path.sh
+/home/namrata/my_ws/install/my_pkg/share/my_pkg/environment/path.dsv
+/home/namrata/my_ws/install/my_pkg/share/my_pkg/local_setup.bash
+/home/namrata/my_ws/install/my_pkg/share/my_pkg/local_setup.sh
+/home/namrata/my_ws/install/my_pkg/share/my_pkg/local_setup.zsh
+/home/namrata/my_ws/install/my_pkg/share/my_pkg/local_setup.dsv
+/home/namrata/my_ws/install/my_pkg/share/my_pkg/package.dsv
+/home/namrata/my_ws/install/my_pkg/share/ament_index/resource_index/packages/my_pkg
+/home/namrata/my_ws/install/my_pkg/share/my_pkg/cmake/my_pkgConfig.cmake
+/home/namrata/my_ws/install/my_pkg/share/my_pkg/cmake/my_pkgConfig-version.cmake
+/home/namrata/my_ws/install/my_pkg/share/my_pkg/package.xml

@@ -1,0 +1,20 @@
+[0.008s] Invoking command in '/home/namrata/my_ws/build/my_pkg': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/namrata/my_ws/build/my_pkg -- -j12 -l12
+[0.035s] Invoked command in '/home/namrata/my_ws/build/my_pkg' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/namrata/my_ws/build/my_pkg -- -j12 -l12
+[0.043s] Invoking command in '/home/namrata/my_ws/build/my_pkg': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/namrata/my_ws/build/my_pkg
+[0.049s] -- Install configuration: ""
+[0.049s] -- Up-to-date: /home/namrata/my_ws/install/my_pkg/share/ament_index/resource_index/package_run_dependencies/my_pkg
+[0.049s] -- Up-to-date: /home/namrata/my_ws/install/my_pkg/share/ament_index/resource_index/parent_prefix_path/my_pkg
+[0.049s] -- Up-to-date: /home/namrata/my_ws/install/my_pkg/share/my_pkg/environment/ament_prefix_path.sh
+[0.049s] -- Up-to-date: /home/namrata/my_ws/install/my_pkg/share/my_pkg/environment/ament_prefix_path.dsv
+[0.049s] -- Up-to-date: /home/namrata/my_ws/install/my_pkg/share/my_pkg/environment/path.sh
+[0.049s] -- Up-to-date: /home/namrata/my_ws/install/my_pkg/share/my_pkg/environment/path.dsv
+[0.049s] -- Up-to-date: /home/namrata/my_ws/install/my_pkg/share/my_pkg/local_setup.bash
+[0.049s] -- Up-to-date: /home/namrata/my_ws/install/my_pkg/share/my_pkg/local_setup.sh
+[0.049s] -- Up-to-date: /home/namrata/my_ws/install/my_pkg/share/my_pkg/local_setup.zsh
+[0.049s] -- Up-to-date: /home/namrata/my_ws/install/my_pkg/share/my_pkg/local_setup.dsv
+[0.049s] -- Up-to-date: /home/namrata/my_ws/install/my_pkg/share/my_pkg/package.dsv
+[0.049s] -- Up-to-date: /home/namrata/my_ws/install/my_pkg/share/ament_index/resource_index/packages/my_pkg
+[0.049s] -- Up-to-date: /home/namrata/my_ws/install/my_pkg/share/my_pkg/cmake/my_pkgConfig.cmake
+[0.049s] -- Up-to-date: /home/namrata/my_ws/install/my_pkg/share/my_pkg/cmake/my_pkgConfig-version.cmake
+[0.049s] -- Up-to-date: /home/namrata/my_ws/install/my_pkg/share/my_pkg/package.xml
+[0.050s] Invoked command in '/home/namrata/my_ws/build/my_pkg' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/namrata/my_ws/build/my_pkg

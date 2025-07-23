@@ -1,0 +1,14 @@
+/home/namrata/my_ws/install/my_pkg/lib/python3.10/site-packages/my_pkg/__init__.py
+/home/namrata/my_ws/install/my_pkg/lib/python3.10/site-packages/my_pkg/my_node.py
+/home/namrata/my_ws/install/my_pkg/lib/python3.10/site-packages/my_pkg/__pycache__/__init__.cpython-310.pyc
+/home/namrata/my_ws/install/my_pkg/lib/python3.10/site-packages/my_pkg/__pycache__/my_node.cpython-310.pyc
+/home/namrata/my_ws/install/my_pkg/share/ament_index/resource_index/packages/my_pkg
+/home/namrata/my_ws/install/my_pkg/share/my_pkg/package.xml
+/home/namrata/my_ws/install/my_pkg/lib/python3.10/site-packages/my_pkg-0.0.0-py3.10.egg-info/dependency_links.txt
+/home/namrata/my_ws/install/my_pkg/lib/python3.10/site-packages/my_pkg-0.0.0-py3.10.egg-info/PKG-INFO
+/home/namrata/my_ws/install/my_pkg/lib/python3.10/site-packages/my_pkg-0.0.0-py3.10.egg-info/SOURCES.txt
+/home/namrata/my_ws/install/my_pkg/lib/python3.10/site-packages/my_pkg-0.0.0-py3.10.egg-info/requires.txt
+/home/namrata/my_ws/install/my_pkg/lib/python3.10/site-packages/my_pkg-0.0.0-py3.10.egg-info/zip-safe
+/home/namrata/my_ws/install/my_pkg/lib/python3.10/site-packages/my_pkg-0.0.0-py3.10.egg-info/entry_points.txt
+/home/namrata/my_ws/install/my_pkg/lib/python3.10/site-packages/my_pkg-0.0.0-py3.10.egg-info/top_level.txt
+/home/namrata/my_ws/install/my_pkg/lib/my_pkg/my_node
