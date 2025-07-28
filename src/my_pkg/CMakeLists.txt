@@ -19,6 +19,8 @@ install(PROGRAMS
   my_pkg/subscriber_node.py
   my_pkg/server_node.py
   my_pkg/client_node.py
+  my_pkg/turtle_controller.py
+  my_pkg/turtle_setpen_client.py
   DESTINATION lib/${PROJECT_NAME}
 )
 
