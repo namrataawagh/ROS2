@@ -3,7 +3,7 @@ Here is a **clean, structured, GitHub-ready `README.md`** for **Topic 2: Write Y
 
 ---
 
-````markdown
+
 # 🟦 Topic 2 — Write Your First ROS2 Program (Create a Python Package)
 
 This topic covers how to set up a **ROS2 workspace**, configure it correctly, and create your **first Python package**.  
@@ -15,6 +15,7 @@ Follow these steps whenever you start a new ROS2 project.
 
 A **ROS2 workspace** is a directory that contains your source code, installed files, and build outputs.
 
+````markdown
 ### **Steps**
 ```bash
 cd ~
