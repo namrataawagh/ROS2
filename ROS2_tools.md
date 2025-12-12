@@ -1,7 +1,6 @@
 # Topic 4 — Running & Managing ROS2 Nodes (CLI, Introspection, remapping, `--symlink-install`, `rqt`, turtlesim)
 
-This note summarizes how to run, inspect, configure and iterate on ROS2 nodes (Python & C++), plus useful CLI options and development tips. Keep this as a `README.md` for quick reference.
-
+This note summarizes how to run, inspect, configure and iterate on ROS2 nodes (Python & C++), plus useful CLI options and development tips. 
 ---
 
 ## 1. Recap — executables after build
