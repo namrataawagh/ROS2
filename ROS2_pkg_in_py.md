@@ -1,9 +1,3 @@
-Sure, Namrata!
-Here is a **clean, structured, GitHub-ready `README.md`** for **Topic 2: Write Your First ROS2 Program / Create a Python Package**.
-
----
-
-
 # 🟦 Topic 2 — Write Your First ROS2 Program (Create a Python Package)
 
 This topic covers how to set up a **ROS2 workspace**, configure it correctly, and create your **first Python package**.  
@@ -189,9 +183,4 @@ my_py_pkg/my_py_pkg/
 Happy coding! 🚀
 Your ROS2 environment is now fully set up and ready for node development.
 
-```
-
----
-
-If you'd like, I can also convert this into a **step-by-step cheatsheet**, or generate **diagrams** for the workspace structure.
 ```
