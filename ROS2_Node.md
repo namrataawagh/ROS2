@@ -169,8 +169,3 @@ Notes:
 * Class-based node templates with `create_timer` and `rclpy.spin()` are a simple and reusable starting point.
 
 ---
-
-If you want, I can:
-
-* generate a **copy-paste-ready node template file** with the correct `setup.py` entry_points for `ros2 run`; or
-* produce a small **diagram** (package ↔ nodes ↔ topics) to visualize the example architecture.
